@@ -1,0 +1,36 @@
+2020-02-15/16:59:42		GoodRaw directory deleted successfully!!!
+2020-02-15/16:59:45		Bad files moved to archive
+2020-02-15/16:59:45		Bad Raw Data Folder Deleted successfully!!
+2020-02-15/17:10:38		GoodRaw directory deleted successfully!!!
+2020-02-15/17:10:38		Bad files moved to archive
+2020-02-15/17:10:38		Bad Raw Data Folder Deleted successfully!!
+2020-02-15/17:35:36		GoodRaw directory deleted successfully!!!
+2020-02-15/17:35:36		Bad files moved to archive
+2020-02-15/17:35:36		Bad Raw Data Folder Deleted successfully!!
+2021-03-15/16:37:38		BadRaw directory deleted before starting validation!!!
+2021-03-15/16:37:38		GoodRaw directory deleted successfully!!!
+2021-03-15/16:38:48		GoodRaw directory deleted successfully!!!
+2021-03-15/16:38:48		Bad files moved to archive
+2021-03-15/16:38:48		Bad Raw Data Folder Deleted successfully!!
+2021-03-15/16:40:51		GoodRaw directory deleted successfully!!!
+2021-03-15/16:40:51		Bad files moved to archive
+2021-03-15/16:40:51		Bad Raw Data Folder Deleted successfully!!
+2021-03-15/16:44:15		GoodRaw directory deleted successfully!!!
+2021-03-15/16:44:15		Bad files moved to archive
+2021-03-15/16:44:15		Bad Raw Data Folder Deleted successfully!!
+2021-05-06/15:18:57		BadRaw directory deleted before starting validation!!!
+2021-05-06/15:18:57		GoodRaw directory deleted successfully!!!
+2021-05-06/15:21:25		BadRaw directory deleted before starting validation!!!
+2021-05-06/15:21:25		GoodRaw directory deleted successfully!!!
+2021-05-06/15:25:28		BadRaw directory deleted before starting validation!!!
+2021-05-06/15:25:28		GoodRaw directory deleted successfully!!!
+2021-05-06/15:26:44		BadRaw directory deleted before starting validation!!!
+2021-05-06/15:26:44		GoodRaw directory deleted successfully!!!
+2021-05-06/15:27:46		BadRaw directory deleted before starting validation!!!
+2021-05-06/15:27:46		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/fraudDetection_021119920_010222.csv'
+2021-05-06/15:27:54		GoodRaw directory deleted successfully!!!
+2021-05-06/15:27:54		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2021-05-06/15:28:30		BadRaw directory deleted before starting validation!!!
+2021-05-06/15:28:30		GoodRaw directory deleted successfully!!!
+2021-05-06/15:32:00		BadRaw directory deleted before starting validation!!!
+2021-05-06/15:32:00		GoodRaw directory deleted successfully!!!
